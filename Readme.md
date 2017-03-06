@@ -17,3 +17,8 @@ npm run build
 ```
 npm run tests
 ```
+
+### Run main code
+```
+npm run main
+```
